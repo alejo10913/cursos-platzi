@@ -1,0 +1,6 @@
+Mi nombre es jorge alejandro gonzalez. Estoy aprendiendo a usar git 
+y git hub. 
+
+este archivo lo estoy haciendo para poner
+en practica los conocimientos adquiridos 
+y practicar como  funcionan algunos comandos
